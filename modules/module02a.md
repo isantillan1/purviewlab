@@ -151,7 +151,7 @@ Before proceeding with the following steps, you will need to:
     >
     > At this point, we have simply registered a data source. Assets are not written to the catalog until after a scan has finished running.
 
-    ![Source Properties](../images/module02/02.22-sources-properties.png)
+    ![Source Properties](https://raw.githubusercontent.com/isantillan1/purviewlab/isantillan1-working-branch/images/module02/02.22-sources-properties.png)
 
 <div align="right"><a href="#module-02a---register--scan-adls-gen2">↥ back to top</a></div>
 
