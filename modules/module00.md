@@ -28,7 +28,7 @@ In order to follow along with the Azure Purview lab exercises, we need to provis
 
 2. Beneath the **Resource group** field, click **Create new** and provide a unique name (e.g. `purviewlab-rg`), select a [valid location](https://azure.microsoft.com/en-us/global-infrastructure/services/?products=purview&regions=all) (e.g. `West Europe`), and then click **Review + create**.
 
-    ![Deploy Template](../images/module00/00.01-deploy-lab.png)
+    ![Deploy Template](https://raw.githubusercontent.com/isantillan1/purviewlab/isantillan1-working-branch/images/module00/00.01-deploy-lab.png)
 
 3. Once the validation has passed, click **Create**.
 
