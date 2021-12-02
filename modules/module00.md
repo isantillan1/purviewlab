@@ -36,11 +36,11 @@ In order to follow along with the Azure Purview lab exercises, we need to provis
 
 4. The deployment should take approximately 10 minutes to complete. Once you see the message **Your deployment is complete**, click **Go to resource group**.
 
-    ![Deployment Complete](../images/module00/00.03-deploy-complete.png)
+    ![Deployment Complete](https://raw.githubusercontent.com/isantillan1/purviewlab/isantillan1-working-branch/images/module00/00.03-deploy-complete.png)
 
 5. If successful, you should see a set of 15 resources, similar to the screenshot below.
 
-    ![Resource Group](../images/module00/00.04-deploy-resources.png)
+    ![Resource Group](https://raw.githubusercontent.com/isantillan1/purviewlab/isantillan1-working-branch/images/module00/00.04-deploy-resources.png)
 
 Note: The Azure Purview account resource has been purposely **excluded** from the template so that participants have an opportunity to understand how to deploy an Azure Purview account via the Azure Portal.
 
