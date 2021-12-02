@@ -26,7 +26,7 @@ In order to follow along with the Azure Purview lab exercises, we need to provis
 
     [![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Ftayganr%2Fpurviewlab%2Fmain%2Ftemplate%2Fazuredeploy.json)
 
-2. Beneath the **Resource group** field, click **Create new** and provide a unique name (e.g. `purviewlab-rg`), select a [valid location](https://azure.microsoft.com/en-us/global-infrastructure/services/?products=purview&regions=all) (e.g. `West Europe`), and then click **Review + create**.
+2. Beneath the **Resource group** field, click select the resource group that's been created for you (e.g. `pvlab-{username}-rg`), select a [valid location](https://azure.microsoft.com/en-us/global-infrastructure/services/?products=purview&regions=all) (e.g. `Canada Central`), and then click **Review + create**.
 
     ![Deploy Template](https://raw.githubusercontent.com/isantillan1/purviewlab/isantillan1-working-branch/images/module00/00.01-deploy-lab.png)
 
