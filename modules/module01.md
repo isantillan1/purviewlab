@@ -43,7 +43,7 @@ To create and use the Azure Purview platform, you will need to provision an Azur
     | Parameter  | Example Value |
     | --- | --- |
     | Subscription | `ace.ca.analytics.ip.dev` |
-    | Resource group | `ace.ca.sandbox.{yourusername}` |
+    | Resource group | `pvlab-{yourusername}-rg` |
     | Purview account name | `pvlab-{yourusername}-pv` |
     | Location | `Canada Central` |
     | Managed Resource Group Name | `pvlab-{yourusername}-rg-managed` |
