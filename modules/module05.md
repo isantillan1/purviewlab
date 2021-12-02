@@ -23,12 +23,20 @@ Azure Purview provides a large set of default classifications that represent typ
 
 ## Table of Contents
 
-1. [Create a Classification](#1-create-a-classification)
-2. [Create a Classification Rule (Regular Expression)](#2-create-a-custom-classification-rule-regular-expression)
-3. [Create a Scan Rule Set](#3-create-a-scan-rule-set)
-4. [Upload Data to an Azure Data Lake Storage Gen2 Account](#4-upload-data-to-an-azure-data-lake-storage-gen2-account)
-5. [Scan an Azure Data Lake Storage Gen2 Account](#5-scan-an-azure-data-lake-storage-gen2-account)
-6. [Search by Classification](#6-search-by-classification)
+- [Module 05 - Classifications](#module-05---classifications)
+  - [:thinking: Prerequisites](#thinking-prerequisites)
+  - [:hammer: Tools](#hammer-tools)
+  - [:loudspeaker: Introduction](#loudspeaker-introduction)
+  - [:dart: Objectives](#dart-objectives)
+  - [Table of Contents](#table-of-contents)
+  - [1. Create a Classification](#1-create-a-classification)
+  - [2. Create a Custom Classification Rule (Regular Expression)](#2-create-a-custom-classification-rule-regular-expression)
+  - [3. Create a Scan Rule Set](#3-create-a-scan-rule-set)
+  - [4. Upload Data to an Azure Data Lake Storage Gen2 Account](#4-upload-data-to-an-azure-data-lake-storage-gen2-account)
+  - [5. Scan an Azure Data Lake Storage Gen2 Account](#5-scan-an-azure-data-lake-storage-gen2-account)
+  - [6. Search by Classification](#6-search-by-classification)
+  - [:mortar_board: Knowledge Check](#mortar_board-knowledge-check)
+  - [:tada: Summary](#tada-summary)
 
 <div align="right"><a href="#module-05---classifications">↥ back to top</a></div>
 
@@ -129,9 +137,13 @@ Azure Purview provides a large set of default classifications that represent typ
 
     ![Scan Rule Set File Type](../images/module05/05.10-scanruleset-filetype.png)
 
-4. Clear all selected **System rules** and select the custom classification rule **twitter_handle** and click **Create**.
+4. Clear all selected **System rules** and select the custom classification rule **twitter_handle** and click **Continue**.
 
     ![Scan Rule Set Classification](../images/module05/05.11-scanruleset-rules.png)
+
+5. Click **Create**.
+
+    ![Scan Rule Set Classification](../images/module05/05.11-2-scanruleset-rules.png)
 
 <div align="right"><a href="#module-05---classifications">↥ back to top</a></div>
 
